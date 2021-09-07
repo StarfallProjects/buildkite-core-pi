@@ -1,0 +1,5 @@
+steps:
+  - label: "Run script"
+    command: "script.ps1"
+    agent: 
+      os: "pi"
